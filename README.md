@@ -9,6 +9,8 @@ monorepo
 ├── mistral
 |  ├── mistral.ipynb
 |  └── requirements.txt
+├── mixtral
+|  └── mixtral.ipynb
 ├── README.md
 └── r_python
    ├── test.ipynb
@@ -28,7 +30,4 @@ tree was made using treee command using tree-cli[1]
 
 # Model Landscape
 
-<div style="text-align: center">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQf5aMkyUL3CwowaJI0ZCOk5DhCKatXuGe7fBjnHJALY5NrQQEb_5BQxiLrmAiGZlV2hBbVFvdXKFrX/pubhtml?widget=true&amp;headers=false"></iframe>
-
-</div>
+https://www.notion.so/Literature-Review-f2c96784ebac46169b66f25d7f53ff9a#800188eeeb3742ac8f828f1cd54a535d
